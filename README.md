@@ -30,5 +30,5 @@ rodar aplicação digite `npm run dev`
 
 ## Cotextalização da aplicação
 
-Ao entrar na aplicação você verá um formulário onde poderá registrar uma proposta, aconselho digitar valores entre 0 e 100, após 20segundos ela sera analisada, para visualizar a analise entre no admin do django, digite `http://127.0.0.1:8000/admin` no browser e inseria seu login e senha do admin, após acesso clique em prposta para visualizar os status.
+Ao entrar na aplicação você verá um formulário onde poderá registrar uma proposta, aconselho digitar valores entre 0 e 100, após 20segundos ela sera analisada, para visualizar a analise entre no admin do django, digite `http://127.0.0.1:8000/admin` no browser e inseria seu login e senha do admin `leodev - 123456789` por exemplo, após acesso clique em prposta para visualizar os status.
 
